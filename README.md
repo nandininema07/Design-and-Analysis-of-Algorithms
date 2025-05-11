@@ -1,7 +1,7 @@
 # Design-and-Analysis-of-Algorithms
 DAA Practical Codes
 
-Divide and Conqure
+Divide and Conquer
 1. Min Max algorithm 
 2. Strassen’s Matrix Multiplication. 
 3. Karatsuba algorithm for long integer multiplication 
