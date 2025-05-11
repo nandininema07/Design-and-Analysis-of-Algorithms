@@ -1,9 +1,10 @@
 # Design-and-Analysis-of-Algorithms
 DAA Practical Codes
 
-1. DnC- Min Max algorithm 
-2. DnC- Strassen’s Matrix Multiplication. 
-3. DnC- Karatsuba algorithm for long integer multiplication 
+Divide and Conqure
+1. Min Max algorithm 
+2. Strassen’s Matrix Multiplication. 
+3. Karatsuba algorithm for long integer multiplication 
 </br>
 
 GREEDY
