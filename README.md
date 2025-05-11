@@ -7,6 +7,7 @@ DAA Practical Codes
 </br>
 
 GREEDY
+
 4. Fractional Knapsack Implementation
 5. Job sequencing with deadline
 6. Find and Union
@@ -17,6 +18,7 @@ GREEDY
 </br>
 
 Dynamic Programming
+
 11. Fibonacci Algorithm
 12. Coin Changing Problem
 13. 0/1 Knapsack
@@ -30,6 +32,7 @@ Dynamic Programming
 </br>
 
 Backtracking
+
 21. N-queen problem
 22. Sum of Subsets
 23. Graph Colouring
@@ -37,6 +40,7 @@ Backtracking
 </br>
 
 Branch and Bound
+
 25. 15 Puzzle problem
 26. 0/1 Knapsack
 27. Travelling Salesman
@@ -44,6 +48,7 @@ Branch and Bound
 </br>
 
 String Matching
+
 29. Naive Approach
 30. Knuth Morris Pratt 
 31. Rabin Karp
