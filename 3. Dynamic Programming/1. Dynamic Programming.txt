@@ -1,0 +1,7 @@
+Dynammic Programming
+- Follows Principle of Optimality- Problem must be solved in sequence of decisions
+- Uses Iterative method
+
+Greedy vs DP
+- Greedy works on fixed steps
+- In DP decision has to be taken after each steps
