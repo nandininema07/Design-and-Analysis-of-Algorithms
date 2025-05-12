@@ -54,3 +54,9 @@ int main(){
 
     return 0;
 }
+
+/*
+Enter number of items: 4
+Enter item weights: 10 7 5 18
+Enter target sum: 22
+*/

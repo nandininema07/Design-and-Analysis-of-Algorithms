@@ -61,3 +61,13 @@ int main(){
 
     return 0;
 }
+
+/*
+Enter number of vertices: 4
+Enter number of colours: 3
+Enter adjacency matrix:
+0 1 1 1
+1 0 1 0
+1 1 0 1
+1 0 1 0
+*/
