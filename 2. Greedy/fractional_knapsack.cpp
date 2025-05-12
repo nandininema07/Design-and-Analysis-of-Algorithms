@@ -61,3 +61,12 @@ int main() {
 
     return 0;
 }
+
+/*
+Enter number of items: 3
+Enter value and weight of each item:
+60 10
+100 20
+120 30
+Enter knapsack capacity: 50
+*/

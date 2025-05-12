@@ -56,3 +56,14 @@ int main() {
 
     return 0;
 }
+
+/*
+Enter number of vertices: 5
+Enter the adjacency matrix (5x5):
+0 10 0 0 5
+10 0 20 0 0
+0 20 0 10 0
+0 0 10 0 15
+5 0 0 15 0
+Enter source vertex (0 to 4): 0
+*/

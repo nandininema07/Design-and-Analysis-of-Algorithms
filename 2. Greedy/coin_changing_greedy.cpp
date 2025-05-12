@@ -34,3 +34,8 @@ int main() {
 
     return 0;
 }
+/*
+Enter number of coin denominations: 3
+Enter coin denominations: 1 3 4
+Enter amount to make: 6
+*/

@@ -61,3 +61,13 @@ int main() {
 
     return 0;
 }
+
+/* 
+Enter number of jobs: 5
+Enter job id, deadline, and profit:
+a 2 100
+b 1 19
+c 2 27
+d 1 25
+e 3 15
+*/

@@ -57,3 +57,12 @@ int main(){
     return 0;
 
 }
+
+/*
+Enter number of vertices: 4
+Enter the cost adjacency matrix (use 0 if no edge):
+0 1 3 0
+1 0 2 4
+3 2 0 5
+0 4 5 0
+*/
