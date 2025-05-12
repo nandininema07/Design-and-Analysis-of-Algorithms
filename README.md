@@ -2,8 +2,8 @@
 DAA Practical Codes
 
 Divide and Conquer
-1. Min Max algorithm 
-2. Strassen’s Matrix Multiplication. 
+1. Min Max algorithm <b>[DONE]</b>
+2. Strassen’s Matrix Multiplication. <b>[DONE]</b>
 3. Karatsuba algorithm for long integer multiplication 
 </br>
 
@@ -20,15 +20,15 @@ GREEDY
 
 Dynamic Programming
 
-11. Fibonacci Algorithm
+11. Fibonacci Algorithm <b>[DONE]</b>
 12. Coin Changing Problem
 13. 0/1 Knapsack
 14. Matrix Chain Multiplication
 15. Longest Common Subsequence algorithm
-16. Floyd-Warshall Algorithm
-17. Bellman-Ford Algorithm
+16. Floyd-Warshall Algorithm <b>[DONE]</b>
+17. Bellman-Ford Algorithm <b>[DONE]</b>
 18. Travelling Salesperson problem
-19. multistage graphs
+19. multistage graphs <b>[DONE]</b>
 20. Optimal BST- successful and unsuccessful
 </br>
 
@@ -37,19 +37,19 @@ Backtracking
 21. N-queen problem
 22. Sum of Subsets
 23. Graph Colouring
-24. Hamiltonian
-</br>
-
-Branch and Bound
-
-25. 15 Puzzle problem
-26. 0/1 Knapsack
-27. Travelling Salesman
-28. Job Sequencing with Deadline
+24. Hamiltonian 
 </br>
 
 String Matching
 
-29. Naive Approach
-30. Knuth Morris Pratt 
-31. Rabin Karp
+25. Naive Approach <b>[DONE]</b>
+26. Knuth Morris Pratt <b>[DONE]</b>
+27. Rabin Karp
+</br>
+
+Branch and Bound (NOT FOR IMPLEMENTATION)
+
+28. 15 Puzzle problem
+29. 0/1 Knapsack
+30. Travelling Salesman
+31. Job Sequencing with Deadline
