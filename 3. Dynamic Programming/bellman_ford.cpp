@@ -50,3 +50,17 @@ int main(){
     bellmanFord(V,E,graph,src);
     return 0;
 }
+/*
+Enter number of Vertices: 5
+Enter number of Edges: 8
+Enter 8 edges in the format (u v weight): 
+0 1 2
+0 2 4
+1 2 1
+1 3 7
+2 3 3
+2 4 5
+3 4 1
+4 0 6
+Enter source vertex (0 to 4): 0
+*/

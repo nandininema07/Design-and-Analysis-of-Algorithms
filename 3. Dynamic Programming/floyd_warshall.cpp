@@ -59,3 +59,12 @@ int main(){
     floydWarshall(graph);
     return 0;
 }
+
+/*
+Enter number of vertices: 4
+Enter adjacency matrix (Enter 99999 for infinity)
+0 3 99999 7
+8 0 2 99999
+99999 1 0 4
+99999 99999 5 0
+*/

@@ -49,3 +49,11 @@ int main(){
 
     return 0;
 }
+/*
+Enter number of nodes: 4
+Enter adjacency matrix (use 0 if no edge): 
+0 10 75 0
+0 0 95 40
+0 0 0 60
+0 0 0 0
+*/
